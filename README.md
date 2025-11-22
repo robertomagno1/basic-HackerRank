@@ -1,9 +1,3 @@
-# HM_ADM_1
-This repository contains my solutions for the first homework assignment of the Algorithmic Methods of Data Mining course at Sapienza University of Rome. The first assignment focuses on building Python programming skills through various challenges on HackerRank.
-
-## Submission Details
-Each problem's solution has been developed individually as per the course's collaboration policy. The repository is structured to include Python scripts for each problem and a directory containing PDFs of my HackerRank submissions.
-
 ## Repository Contents
 
 ### Python Scripts
